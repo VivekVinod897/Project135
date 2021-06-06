@@ -1,0 +1,21 @@
+body{
+background-size: cover;
+}
+
+.heading{
+font-size:25px;
+width:100%;
+margin-bottom:50px;
+}
+
+#heading2{
+color:black;
+}
+
+#h31{
+color: white;
+}
+
+.input{
+width:25%;
+}
